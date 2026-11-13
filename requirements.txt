@@ -1,0 +1,15 @@
+streamlit
+fastapi
+pydantic
+uvicorn
+httpx
+requests
+python-dotenv
+joblib
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+nltk
+
